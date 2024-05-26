@@ -1,4 +1,4 @@
 利用codesearchnet中java做SFT的代码
 
 
-train_llama3是调用llama3-8b-instruct做SFT的代码，train_instruction
+train_llama3是调用llama3-8b-instruct做SFT的代码，train_instruction是调用GPT2做SFT的代码，其余的是trl框架中所需要的import的代码
