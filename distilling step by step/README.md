@@ -1,4 +1,5 @@
 # Distilling Step-by-Step!
+datasets: https://github.com/google-research/distilling-step-by-step中的datasets.zip
 
 Code for paper [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301)
 
