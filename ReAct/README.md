@@ -1,3 +1,7 @@
+#原仓库链接：https://github.com/ysymyth/ReAct
+#其中hotpotqa_mistral_vllm是使用vllm后的版本
+#vllm链接https://github.com/vllm-project/vllm
+
 # ReAct Prompting
 
 GPT-3 prompting code for ICLR 2023 paper [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629).
