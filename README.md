@@ -5,3 +5,5 @@ distilling step by step中有修改好的代码
 
 
 TRL中是使用CodeSearchNet 做SFT的代码
+
+文件夹中有对应的README
